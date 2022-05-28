@@ -60,3 +60,7 @@ Linear Gradient;
 Partial;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
 Average price;  
+
+
+**Documentation:** https://docs.ultracode.org/robots/scriptbot+  
+**Discord group:** https://discord.ultracode.org  
