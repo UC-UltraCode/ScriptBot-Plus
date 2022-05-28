@@ -41,13 +41,13 @@ Control the sending format of orders and targets.
 
 ## SUBSYSTEMS:  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
-Buffer Checker;  
+Buffer checker;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
-Daily goal;  
+Daily target;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
-Break Even;  
+Break even;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
-Mobile Stop;  
+Trailing stop;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
 SorosGale;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
@@ -55,11 +55,11 @@ MartiGale;
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
 Straddle / Hedge;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
-Linear Gradient;  
+Linear gradient;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
 Partial;  
 <img src="https://cdn-icons-png.flaticon.com/512/232/232446.png" width=1% height=1%><img/>
-Average price;  
+Medium price;  
 
 
 **Documentation:** https://docs.ultracode.org/robots/scriptbot+  
