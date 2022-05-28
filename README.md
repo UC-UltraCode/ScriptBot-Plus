@@ -1,45 +1,44 @@
-# ScriptBot-Plus
-Multi-strategy robot based on logical expressions.
+ScriptBot+ is a powerful multi-strategy robot that will allow you to devise and create winning strategies. Due to the amount of resources, intuitive configuration and triggers based on logical expressions, it is possible to create infinite strategies quickly without having knowledge in programming, in a matter of minutes you will be able to create several strategies of your own, fully functional, executed automatically and without pain of head.
 
-ScriptBot+ é um poderoso robô multi-estratégia que irá lhe permitir elaborar e criar estratégias vencedoras. Devido a quantidade de recursos, configuração intuitiva e gatilhos beseados em expressões lógicas é possível criar infinitas estratégias rapidamente sem ter conhecimentos em programação, em questão de minutos você será capaz de criar diversas estratégias próprias, totalmente funcionais, executadas de forma automática e sem dor de cabeça.
+Resources:
+▪ Install up to 21 indicators to your liking!
+▪ Create your strategies using logical expressions!
+▪ Have a wide variety of variables and functions!
+▪ Set different operating hours and days!
+▪ Track or control the robot via a panel.
+▪ Receive audible alerts!
+▪ Get access to many subsystems!
+▪ Control the sending format of orders and targets.
 
-Recursos:
-▪ Instale até 21 indicadores do seu gosto!
-▪ Crie suas estratégias usando expressões lógicas!
-▪ Tenha uma ampla variedade de variáveis e funções!
-▪ Defina diferentes horários e dias de operação!
-▪ Acompanhe ou controle o robô por um painel.
-▪ Receba alertas sonoros!
-▪ Tenha acessso a muitos sub-sistemas!
-▪ Controle o formato de envio das ordens e alvos.
+<font color="green"> Some green text </font>
 
 MULTI:
-Multi estratégia:
-▪ Não existe limites, pensou criou.
+Multi strategy:
+▪ There are no limits, he thought created.
 
-Multi ativo:
-▪ Instale diversos indicadores em diferentes ativos.
-▪ Totalmente compatível com cross order.
-▪ Totalmente compatível com ativos customizados como gráfico de renko.
+Multi active:
+▪ Install different indicators on different assets.
+▪ Fully cross order compatible.
+▪ Fully compatible with custom assets like renko chart.
 
-Multi indicador:
-▪ Instale qualquer indicador, até mesmo aqueles mais complexos ou aqueles que você mesmo desenvolveu!
+Multi indicator:
+▪ Install any indicator, even the most complex ones or the ones you developed yourself!
 
-Multi horário:
-▪ Adicione quantos horários você precisar, tanto para iniciar, finalizar ou encerrar.
+Multi time:
+▪ Add as many times as you need, either to start, end or end.
 
-Multi sistema:
-▪ Tenha um arsenal de sub-sistemas que irão melhorar suas estratégias.
+Multi system:
+▪ Have an arsenal of sub-systems that will improve your strategies.
 
-SISTEMAS:
-Arsenal de sub-sistemas:
-▪ Verificador de Buffers
-▪ Meta diária
+SYSTEMS:
+Subsystems arsenal:
+▪ Buffer Checker
+▪ Daily goal
 ▪ Break Even
-▪ Stop Móvel
+▪ Mobile Stop
 ▪ SorosGale
 ▪ MartiGale
 ▪ Straddle / Hedge
-▪ Gradiente Linear
-▪ Parciais
-▪ Preço médio
+▪ Linear Gradient
+▪ Partial
+▪ Average price
